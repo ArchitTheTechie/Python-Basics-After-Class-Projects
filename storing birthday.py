@@ -1,4 +1,4 @@
-# Sorting birthday
+# Storing birthdays
 
 Archit = "28/01/2014"
 Shaurya = "24/09/2013"
